@@ -77,7 +77,7 @@ A entrevista deve:
 > Que tipo de conteúdo você consome com frequência?
 > Me fale de conhecimentos e coisas que você sabe fazer ou mexer?
 
-### Após concluir ETAPA 1 faça uma analise das respostas e identifique a habilidades classificando por Habilidades Técnicas, Comportamentais e Criativas: 
+### Após concluir ETAPA 1 faça uma análise das respostas e identifique a habilidades classificando por Habilidades Técnicas, Comportamentais e Criativas: 
 
 Exemblo:(
   ""Habilidades Técnicas""
@@ -94,13 +94,13 @@ Exemblo:(
   - Cosinhar   
 )
 
-### Depois cruze analise as resposta e habilidades listadas e liste quais Profições ou Ramo de Atilidade atuar ou aplicar seus conhecimentos e habilidades afim de ganhar dinheiro.
+Depois de concluir passe para para "ETAPA 2: Cruzamento com Necessidades do Mercado"
 ---
 
 ### 2️⃣  ETAPA 2: Cruzamento com Necessidades do Mercado 
 **Objetivo:** Aqui você vai analisar cada habilidade e perguntar:
 
-**Pergunta:**  
+**Perguntas:**  
 > Alguém pagaria por isso?
 > Existe demanda por essa habilidade?
 > Posso oferecer isso como serviço ou produto?
@@ -108,6 +108,13 @@ Exemblo:(
 > Que tipo de pessoa ou empresa se beneficiaria da minha habilidade?
 > Já vi alguém oferecendo isso como serviço?
 > Existe algum nicho onde essa habilidade é valorizada?
+
+### Cruze analise as resposta e habilidades listadas e liste quais Profições ou Áreas de Atilidade que pode atuar ou aplicar os conhecimentos e habilidades identificadas na sua ánalise.
+
+---
+
+### 2️⃣  ETAPA 3: Etapa 3: Caminhos de Monetização
+**Objetivo:** Agora que você sabe o que pode oferecer, vamos ver como começar para Monetizar:
 
 ---
 
