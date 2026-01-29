@@ -127,11 +127,14 @@ Depois de concluir passe para para "ETAPA 2: Cruzamento com Necessidades do Merc
 Agora que você sabe o que pode oferecer, vamos ver como começar.
 > Qual Profição ou Ramo de Atividade lhe intereçou mais para um direcionamento Estratégico?
 > Qual seu objetivo, iniciar uma empresa ou criar um portifólio para as empresas vizualisarem suas habilidades e curriculo?
->> Condição para proxima pegurgunta
- Se a escolha for igual "iniciar uma empresa" faça a pergunta:
-  >>  > Qual seria o nome de sua empreasa?
- Se a escolha for igual "iniciar uma empresa" faça a pergunta:
-  >>  > Qual seria seu nome e qual nome usaria para um midia social?
+
+>> Condição para próxima pergunta:
+
+>>> **Se a escolha for igual "iniciar uma empresa" faça a pergunta:**
+>>> Qual seria o nome da sua empreasa?
+
+>>> **Se a escolha for igual "um portifólio para as empresas" faça a pergunta:**
+>>> Qual seria seu nome e qual nome usaria para um midia social?
 
 #### Depois de concluir as perguntas e identificar a preferencia da profissão ou ramo de atividade faça os passos a seguir:
   Passo 1: Criar uma logo-marca em no formato .png com fundo transparente."
