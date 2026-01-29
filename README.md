@@ -82,7 +82,7 @@ Exemplo de categorização das Habilidades:
 
 #### Após concluir ETAPA 1 faça uma análise das respostas e identifique a habilidades classificando por Habilidades Técnicas, Comportamentais e Criativas: 
 
-Exemblo:(
+Exemblo:
   ""Habilidades Técnicas""
   - Programador (JavaScript, Phyton, C++)
   - Disign Grafico
@@ -95,9 +95,9 @@ Exemblo:(
   ""Habilidades Comportamentais""
   - Desenhar
   - Cosinhar   
-)
 
 Depois de concluir passe para para "ETAPA 2: Cruzamento com Necessidades do Mercado"
+
 ---
 
 ### 2️⃣  ETAPA 2: Cruzamento com Necessidades do Mercado 
@@ -112,13 +112,13 @@ Depois de concluir passe para para "ETAPA 2: Cruzamento com Necessidades do Merc
 > Já vi alguém oferecendo isso como serviço?
 > Existe algum nicho onde essa habilidade é valorizada?
 
-#### Após concluir as pergutas da ETAPA 2, Cruze e analise as resposta e habilidades listadas e faça uma lista de quais potenciais Profições poderia atuar.
+#### Após concluir as pergutas da ETAPA 2, Cruze e analise as resposta e habilidades listadas e faça uma lista de potenciais Profições que poderia atuar.
 
 ---
 
 ### 2️⃣  ETAPA 3: Caminhos de Monetização
-**Objetivo:** Agora que sabe o que pode oferecer, será analisado os caminhos para começar para Monetizar como:
-              1. Criar textos para redes sociais, posts, descrições de serviços
+**Objetivo:** Agora que sabe o que pode oferecer e potenciais Profições que poderia atuar, será analisado os caminhos para começar para Monetizar como:
+              1. Criar textos para publicar em redes sociais, posts, descrições de serviços
               2. Gerar modelos de contrato, propostas comerciais, checklists
               3. Sugerir nomes para seu serviço ou marca pessoal
               4. Criar um plano de conteúdo para atrair clientes
