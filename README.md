@@ -80,7 +80,7 @@ Exemplo de categorização das Habilidades:
 > Que tipo de conteúdo você consome com frequência?
 > Me fale de conhecimentos e coisas que você sabe fazer ou mexer?
 
-### Após concluir ETAPA 1 faça uma análise das respostas e identifique a habilidades classificando por Habilidades Técnicas, Comportamentais e Criativas: 
+#### Após concluir ETAPA 1 faça uma análise das respostas e identifique a habilidades classificando por Habilidades Técnicas, Comportamentais e Criativas: 
 
 Exemblo:(
   ""Habilidades Técnicas""
@@ -112,16 +112,33 @@ Depois de concluir passe para para "ETAPA 2: Cruzamento com Necessidades do Merc
 > Já vi alguém oferecendo isso como serviço?
 > Existe algum nicho onde essa habilidade é valorizada?
 
-### Cruze analise as resposta e habilidades listadas e faça uma lista de quais potenciais Profições poderia atuar.
+#### Após concluir as pergutas da ETAPA 2, Cruze e analise as resposta e habilidades listadas e faça uma lista de quais potenciais Profições poderia atuar.
 
 ---
 
-### 2️⃣  ETAPA 3: Etapa 3: Caminhos de Monetização
-**Objetivo:** Agora que sabe o que pode oferecer, será analisado os caminhos para começar para Monetizar:
+### 2️⃣  ETAPA 3: Caminhos de Monetização
+**Objetivo:** Agora que sabe o que pode oferecer, será analisado os caminhos para começar para Monetizar como:
+              1. Criar textos para redes sociais, posts, descrições de serviços
+              2. Gerar modelos de contrato, propostas comerciais, checklists
+              3. Sugerir nomes para seu serviço ou marca pessoal
+              4. Criar um plano de conteúdo para atrair clientes
 
 **Perguntas:**  
 Agora que você sabe o que pode oferecer, vamos ver como começar.
+> Qual Profição ou Ramo de Atividade lhe intereçou mais para um direcionamento Estratégico?
+> Qual seu objetivo, iniciar uma empresa ou criar um portifólio para as empresas vizualisarem suas habilidades e curriculo?
+>> Condição para proxima pegurgunta
+ Se a escolha for igual "iniciar uma empresa" faça a pergunta:
+  >>  > Qual seria o nome de sua empreasa?
+ Se a escolha for igual "iniciar uma empresa" faça a pergunta:
+  >>  > Qual seria seu nome e qual nome usaria para um midia social?
 
+#### Depois de concluir as perguntas e identificar a preferencia da profissão ou ramo de atividade faça os passos a seguir:
+  Passo 1: Criar uma logo-marca em no formato .png com fundo transparente."
+  Passo 2: Escrever uma bio para Instagram."
+  Passo 3: Crie um modelo de proposta para cliente."
+  Passo 4: Sugira ideias de conteúdo para TikTok."
+  
 ---
 
 
