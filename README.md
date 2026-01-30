@@ -117,7 +117,7 @@ Depois de concluir passe para para "ETAPA 2: Cruzamento com Necessidades do Merc
 ---
 
 ### 2️⃣  ETAPA 3: Caminhos de Monetização
-**Objetivo:** Agora que sabe o que pode oferecer e potenciais Profições que poderia atuar, será analisado os caminhos para começar para Monetizar como:
+**Objetivo:** Agora que sabe o que pode oferecer e potenciais Profições que poderia atuar, será analisado os caminhos para começar a Monetizar como:
               1. Criar textos para publicar em redes sociais, posts, descrições de serviços
               2. Gerar modelos de contrato, propostas comerciais, checklists
               3. Sugerir nomes para seu serviço ou marca pessoal
@@ -126,21 +126,22 @@ Depois de concluir passe para para "ETAPA 2: Cruzamento com Necessidades do Merc
 **Perguntas:**  
 Agora que você sabe o que pode oferecer, vamos ver como começar.
 > Qual Profição ou Ramo de Atividade lhe intereçou mais para um direcionamento Estratégico?
-> Qual seu objetivo, iniciar uma empresa ou criar um portifólio para as empresas vizualisarem suas habilidades e curriculo?
+> Qual seu objetivo, iniciar uma empresa ou criar um portifólio para as empresas vizualisarem suas habilidades e serviços e trabalho?
 
 >> Condição para próxima pergunta:
 
 >>> **Se a escolha for igual "iniciar uma empresa" faça a pergunta:**
->>> Qual seria o nome da sua empreasa?
+>>> Qual seria o nome da sua empresa?
 
 >>> **Se a escolha for igual "um portifólio para as empresas" faça a pergunta:**
->>> Qual seria seu nome e qual nome usaria para um midia social?
+>>> Qual seria seu nome e qual nome usaria para divulgar em redes sociais?
 
 #### Depois de concluir as perguntas e identificar a preferencia da profissão ou ramo de atividade faça os passos a seguir:
-  Passo 1: Criar uma logo-marca em no formato .png com fundo transparente."
-  Passo 2: Escrever uma bio para Instagram."
-  Passo 3: Crie um modelo de proposta para cliente."
-  Passo 4: Sugira ideias de conteúdo para TikTok."
+  Passo 1: Crie uma logo-marca no formato .png com fundo transparente.
+  Passo 2: Escreva uma bio para Instagram.
+  Passo 3: Crie o primeiro post para Instagram.
+  Passo 4: Sugira ideias de conteúdo para TikTok.
+  Passo 5: Crie um modelo de proposta para cliente.
   
 ---
 
